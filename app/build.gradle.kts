@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "com.github.ilharp.androidsigntutorial"
-        minSdk = 16
+        minSdk = 18
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
