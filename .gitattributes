@@ -1,0 +1,8 @@
+* text eol=lf
+
+gradlew.bat eol=crlf
+
+*.jpg -text
+*.png -text
+*.jar -text
+*.webp -text
